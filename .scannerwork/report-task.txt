@@ -1,0 +1,7 @@
+organization=srinikethreddy29
+projectKey=srinikethreddy29_sit-753working
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.63227
+dashboardUrl=https://sonarcloud.io/dashboard?id=srinikethreddy29_sit-753working
+ceTaskId=AZbIQ1L0lZcWxcLkEk_q
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZbIQ1L0lZcWxcLkEk_q
